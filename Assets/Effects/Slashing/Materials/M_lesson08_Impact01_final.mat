@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: M_lesson08_Impact01_final
-  m_Shader: {fileID: 4800000, guid: 21e6dee92371315449b79c626925f17e, type: 3}
+  m_Shader: {fileID: 4800000, guid: 12e0ec29ee0a2b042a009b78a796f9c4, type: 3}
   m_ShaderKeywords: BOOLEAN_6CF722CD_ON BOOLEAN_CA6CADCA_ON BOOLEAN_DD9A8A08_ON BOOLEAN_FBBC2E3A_ON
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -40,15 +40,15 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2D_9B3BF150:
-        m_Texture: {fileID: 2800000, guid: a450dcf8864de6c4d88c7768e37785e7, type: 3}
+        m_Texture: {fileID: 2800000, guid: d5bcee4d05bbc2a419183058accb4b8e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2D_B104E149:
-        m_Texture: {fileID: 2800000, guid: 9143261c10bd3c946a8ed05ee5ddcba9, type: 3}
+        m_Texture: {fileID: 2800000, guid: d168b0c4f5f90284b91f7358483193c8, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2D_B9875C9:
-        m_Texture: {fileID: 2800000, guid: 7b13ded6e2c9d124ca3d43653127ffcb, type: 3}
+        m_Texture: {fileID: 2800000, guid: 77f131d4e287f60428d89368219466f4, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2D_EE31D0DE:
@@ -108,6 +108,18 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
