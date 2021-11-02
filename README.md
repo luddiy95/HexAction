@@ -5,9 +5,13 @@
 制作期間：4日間
 
 使用アセット：
+- DOTween(https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676?locale=ja-JP)
 - Enemy Robots(https://assetstore.unity.com/packages/3d/characters/enemy-robots-134968)
 - Fantasy Moon Sword(https://assetstore.unity.com/packages/3d/props/weapons/fantasy-moon-sword-155333)
 - Oriental Sword Animation(https://assetstore.unity.com/packages/3d/animations/oriental-sword-animation-71318)
+
+使用ツール：
+- NVIDIA Blast(https://developer.nvidia.com/blast)
 
 ルール
 - 移動：aswz(水色のエリア内のみ移動可能)
