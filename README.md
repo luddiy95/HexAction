@@ -10,7 +10,7 @@
 - Oriental Sword Animation(https://assetstore.unity.com/packages/3d/animations/oriental-sword-animation-71318)
 
 ルール
-- 移動：aswz
+- 移動：aswz(水色のエリア内のみ移動可能)
 - 左クリック：近接攻撃
 - 右クリック：遠隔攻撃(紫ゲージのMPを消費)
 - クリスタルを破壊することでMPを回復
